@@ -127,6 +127,15 @@
   },
   {
     "time": "11:00",
+    "quote_first": "That's correct - at ",
+    "quote_time_case": "11 a.m.",
+    "quote_last": " on November 7, 1944, I received a phone call from the assistant principal at the local elementary school. I used to be the school doctor, or something close to it, so that's why they contacted me first.",
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:00",
     "quote_first": "At ",
     "quote_time_case": "eleven o’clock",
     "quote_last": " it was all settled; they were going to run away, to Borneo. F*** the husband! She never loved him anyway. She would never have written the first letter if the husband wasn’t old and passionless.",
