@@ -70,5 +70,14 @@
     "title": "Chronicle of a Death Foretold",
     "author": "Gabriel García Márquez",
     "sfw": "yes"
+  },
+  {
+    "time": "05:30",
+    "quote_first": "Harry awoke at ",
+    "quote_time_case": "half past five",
+    "quote_last": " the next morning as abruptly and completely as if somebody had yelled in his ear.",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "sfw": "yes"
   }
 ]
